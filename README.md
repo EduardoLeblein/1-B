@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<head><title>G school</title></head>
 <html>
    <h1>G school</h1>
   <h1>Um site de informações escolares para estudes pais e interessados sobre o que acontece no mundo escolar. </h1>
